@@ -1,0 +1,9 @@
+{
+	"name": "adfdataingestiondtm",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fa064120-9f4b-4a83-aa10-f5830186d68b",
+		"tenantId": "9b7cbd77-6d6b-4879-8aba-63d7dfb18472"
+	}
+}
