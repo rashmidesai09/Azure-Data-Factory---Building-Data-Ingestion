@@ -1,0 +1,2 @@
+"Pipeline name","Activity type","Run start","Duration","Status","Error","Log","Integration runtime","User properties","Run ID"
+"Copy webstore online sales data","Copy","1/20/2023, 1:51:37 PM","00:00:13","Succeeded","","","AutoResolveIntegrationRuntime (Central India)","{}","92df2164-5ff9-4c88-9a22-9d03e4bcf7f5"
